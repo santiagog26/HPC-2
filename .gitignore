@@ -1,6 +1,7 @@
 
 # Ignora archivos ejecutables .o
 *.o
+*.out
 
 *.swp
 
