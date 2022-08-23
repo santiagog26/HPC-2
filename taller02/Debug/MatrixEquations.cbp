@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="MatrixEquations"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/ubuntu/Documents/Gutiwa/primerTaller/taller02/Debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ubuntu/Documents/Gutiwa/primerTaller/taller02/Debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ubuntu/Documents/Gutiwa/primerTaller/taller02/Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ubuntu/Documents/Gutiwa/primerTaller/taller02/Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ubuntu/Documents/Gutiwa/primerTaller/taller02/Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/ubuntu/Documents/Gutiwa/primerTaller/taller02/Debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ubuntu/Documents/Gutiwa/primerTaller/taller02/Debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ubuntu/Documents/Gutiwa/primerTaller/taller02/Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ubuntu/Documents/Gutiwa/primerTaller/taller02/Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ubuntu/Documents/Gutiwa/primerTaller/taller02/Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/ubuntu/Documents/Gutiwa/primerTaller/taller02/Debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ubuntu/Documents/Gutiwa/primerTaller/taller02/Debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ubuntu/Documents/Gutiwa/primerTaller/taller02/Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ubuntu/Documents/Gutiwa/primerTaller/taller02/Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ubuntu/Documents/Gutiwa/primerTaller/taller02/Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MatrixEquations">
+				<Option output="/home/ubuntu/Documents/Gutiwa/primerTaller/taller02/Debug/MatrixEquations" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ubuntu/Documents/Gutiwa/primerTaller/taller02/Debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/ubuntu/Documents/Gutiwa/primerTaller/taller02/MatrixEquations/usr/local/include/eigen3"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ubuntu/Documents/Gutiwa/primerTaller/taller02/Debug/Makefile&quot;  VERBOSE=1 MatrixEquations"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ubuntu/Documents/Gutiwa/primerTaller/taller02/Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ubuntu/Documents/Gutiwa/primerTaller/taller02/Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ubuntu/Documents/Gutiwa/primerTaller/taller02/Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MatrixEquations/fast">
+				<Option output="/home/ubuntu/Documents/Gutiwa/primerTaller/taller02/Debug/MatrixEquations" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ubuntu/Documents/Gutiwa/primerTaller/taller02/Debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/ubuntu/Documents/Gutiwa/primerTaller/taller02/MatrixEquations/usr/local/include/eigen3"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ubuntu/Documents/Gutiwa/primerTaller/taller02/Debug/Makefile&quot;  VERBOSE=1 MatrixEquations/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ubuntu/Documents/Gutiwa/primerTaller/taller02/Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ubuntu/Documents/Gutiwa/primerTaller/taller02/Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ubuntu/Documents/Gutiwa/primerTaller/taller02/Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/ubuntu/Documents/Gutiwa/primerTaller/taller02/MatrixEquations/main.cpp">
+			<Option target="MatrixEquations"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/Documents/Gutiwa/primerTaller/taller02/MatrixEquations/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
