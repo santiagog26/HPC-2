@@ -1,6 +1,6 @@
 # Math Exercises & Math Problems: Matrix Equations
 
-### This project, contain the solutions for 15 of the exercises of [math-exercise](https://www.math-exercises.com/matrices/matrix-equations), for execute it, you should do the following steps
+### This project contain the solutions for 15 of the exercises of [math-exercise](https://www.math-exercises.com/matrices/matrix-equations), for execute it, you should follow the steps below
 
 Se debe decargar las carpetas *Debug* y *MatrixEquations* y para ejecutar se siguen los siguientes pasos:
 
