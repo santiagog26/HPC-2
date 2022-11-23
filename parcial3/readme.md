@@ -12,6 +12,6 @@ Se hace uso de un dataset sobre medidas de rangos biomédicos para determinar si
 
 - Referencias
 
-Todo esto se encuentra en el [notebook]{https://colab.research.google.com/drive/1LS0Hq13tldP9TKi6PouxJFpEHAhDXIjo?usp=sharing}
+Todo esto se encuentra en el [notebook](https://colab.research.google.com/drive/1LS0Hq13tldP9TKi6PouxJFpEHAhDXIjo?usp=sharing)
 
 
